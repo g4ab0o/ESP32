@@ -1,3 +1,8 @@
+//Ejemplo tomado de la libreria arduino ESP32 Camara
+//Modificado por:Gabriel Ulises Lagunez Medina
+//Fecha de modificacion: 29 de julio de 2021
+//Este programa conecta la tarjeta ESP32CAM a una red wifi para utilizar la camara 
+
 #include "esp_camera.h"
 #include <WiFi.h>
 
